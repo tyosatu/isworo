@@ -1,0 +1,2 @@
+# isworo
+tugas 1
